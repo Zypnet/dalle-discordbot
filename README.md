@@ -23,13 +23,13 @@ src/functions/handelCommands.js
 const clientId = 'PASTE_BOT_CLIENT_ID_HERE'; 
 const guildId = 'PASTE_GUILD_ID_HERE'; // Optional
 ```
+You can only replace clientId with your own bot client id then you are good to go!
+
 ### Finally you can run the bot
 
 ```bash
 node .
 ```
-
-You can only replace clientId with your own bot client id then you are good to go!
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

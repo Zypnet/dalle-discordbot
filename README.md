@@ -1,7 +1,6 @@
 # Dall-e Discord Bot coded with Discord.js
 
 With this bot you can use dall-e in your discord channel.
-![bot showchase](https://cdn.discordapp.com/attachments/1051170910591266849/1127939754487447634/Screenshot_from_2023-07-10_15-29-10.png)
 
 ## Installation
 
@@ -41,3 +40,7 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Bot showcase
+
+![bot showchase](https://cdn.discordapp.com/attachments/1051170910591266849/1127939754487447634/Screenshot_from_2023-07-10_15-29-10.png)
